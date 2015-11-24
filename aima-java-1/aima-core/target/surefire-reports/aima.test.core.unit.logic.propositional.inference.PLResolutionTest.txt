@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: aima.test.core.unit.logic.propositional.inference.PLResolutionTest
+-------------------------------------------------------------------------------
+Tests run: 26, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.062 sec

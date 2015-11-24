@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: aima.test.core.unit.logic.fol.inference.FOLTFMResolutionTest
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 62.459 sec
